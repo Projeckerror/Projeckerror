@@ -4,7 +4,8 @@ Programming language
 ![20231112_083534](https://github.com/Projeckerror/Foto-/assets/142165314/598ab087-fe2f-478c-a85c-1883d0299ff4)
 
 - 👋 Hai Saya Panglima Jatim
-- ✍️ maker : Panglima Jatim 
+- ✍️ maker : Panglima Jatim
+- ⭐ Don't forget to give stars 
 - 💻 Learn programming ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
